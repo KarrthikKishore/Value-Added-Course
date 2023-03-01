@@ -17,13 +17,14 @@ Creating various plots for analyzing calorie count based on protein, fat, and ra
 # Plots
 The following plots are created in this analysis:
 
-Bar graph for calorie count
-Bar graph for calorie count by protein
-Bar graph for calorie count by fat
-Bar graph for calorie count by protein and fat
-Pie chart for calories ratio in fat
-Histogram for cereal rating distribution
-Box plot for calories by rating
-Density plot for rating by calorie, fat, and protein
-Conclusion
+Bar graph for calorie count  
+Bar graph for calorie count by protein  
+Bar graph for calorie count by fat  
+Bar graph for calorie count by protein and fat  
+Pie chart for calories ratio in fat  
+Histogram for cereal rating distribution  
+Box plot for calories by rating  
+Density plot for rating by calorie, fat, and protein  
+
+# Conclusion
 From the plots, we can conclude that the calorie count of cereals varies based on their protein and fat content. Also, the cereal rating does not seem to have a direct correlation with the calorie count.
