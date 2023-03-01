@@ -17,7 +17,7 @@ Creating various plots for analyzing calorie count based on protein, fat, and ra
 # Plots
 The following plots are created in this analysis:
 
-Bar graph for calorie count  
+## Bar graph for calorie count  
 ![Rplot01](https://user-images.githubusercontent.com/114388705/222079953-c0c7bd38-8711-429b-b85e-b6dab14e9bcf.png)  
 Bar graph for calorie count by protein  
 ![Rplot02](https://user-images.githubusercontent.com/114388705/222079954-31adda48-1db6-43be-96ad-098a6490722f.png)  
